@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - IT Student</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            padding: 1em;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1,
+        h2 {
+            color: #2c3e50;
+        }
+
+        a {
+            color: #3498db;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>IT Student at The University of Toledo</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I'm Your Name, a passionate IT student at The University of Toledo. I am dedicated to expanding my
+            knowledge in the field of Information Technology and constantly seeking new challenges to grow both
+            personally and professionally.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>The University of Toledo</strong><br> Bachelor of Science in Information Technology<br> Expected
+            Graduation: [Your Graduation Year]</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming Languages: [Your Skills]</li>
+            <li>Web Development: [Your Skills]</li>
+            <li>Database Management: [Your Skills]</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <p><strong>Project Name 1</strong><br> Description of the project and your role.</p>
+        <p><strong>Project Name 2</strong><br> Description of the project and your role.</p>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>LinkedIn: <a href="[Your LinkedIn Profile URL]" target="_blank">Your LinkedIn Profile</a></p>
+        <!-- Add more contact information as needed -->
+    </section>
+
+</body>
+
+</html>
